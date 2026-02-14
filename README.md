@@ -66,10 +66,10 @@ I build things across the stack — from chess engines in Rust to interactive ar
 ## Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2" />
+  <img src="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=default&hide_border=true&count_private=true&v=2" height="165" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=dark&hide_border=true&hide=ShaderLab,HLSL" />
-  <img src="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=default&hide_border=true&hide=ShaderLab,HLSL" height="165" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=dark&hide_border=true&hide=ShaderLab,HLSL&v=2" />
+  <img src="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=default&hide_border=true&hide=ShaderLab,HLSL&v=2" height="165" alt="Top languages" />
 </picture>
