@@ -39,7 +39,7 @@ I build things across the stack — from chess engines in Rust to interactive ar
 |---------|-------------|------|
 | [tmttn.eu](https://github.com/tmttn/tmttn.eu) | My personal website · [tmttn.eu](https://www.tmttn.eu) | TypeScript |
 | [talentenraad](https://github.com/tmttn/talentenraad) | Parent council website for Talentenhuis school · [Live](https://talentenraad.vercel.app) | TypeScript, Next.js |
-| [the-pool-studio](https://github.com/tmttn/the-pool-studio) | Website for The Pool Studio · [Live](https://the-pool-studio.vercel.app) | JavaScript, Gatsby |
+| [the-pool-studio](https://github.com/tmttn/the-pool-studio) | Website for The Pool Studio · [Live](https://the-pool-studio.vercel.app) | TypeScript, Next.js |
 | [marthe-zoekt-koekjes](https://github.com/tmttn/marthe-zoekt-koekjes) | A 2D cookie-finding game built with Godot Engine | GDScript |
 | [lastnight](https://github.com/tmttn/lastnight) | A real-time social app built with Astro and Firebase | TypeScript, Astro |
 | [any-form](https://github.com/tmttn/any-form) | Dynamic page builder powered by Nuxt and Builder.io | Vue, Nuxt |
@@ -57,9 +57,19 @@ I build things across the stack — from chess engines in Rust to interactive ar
 | [AOC21](https://github.com/tmttn/AOC21) | Advent of Code 2021 solutions in JavaScript | JavaScript |
 | [gatsby-plugin-linkedin-insight](https://github.com/tmttn/gatsby-plugin-linkedin-insight) | Gatsby plugin to add LinkedIn Insight onto a site | JavaScript |
 | [gatsby-plugin-hubspot-tracking](https://github.com/tmttn/gatsby-plugin-hubspot-tracking) | Gatsby plugin to add HubSpot embed code to a site | JavaScript |
-| [wedding](https://github.com/tmttn/wedding) | A GitHub Pages site for my wedding | HTML |
+| [wedding](https://github.com/tmttn/wedding) | A GitHub Pages site for our wedding | HTML |
 | [ntlm-bypass-hook](https://github.com/tmttn/ntlm-bypass-hook) | A Liferay hook to bypass NTLM authentication | Java |
 | [workshop-react-exercise](https://github.com/tmttn/workshop-react-exercise) | React workshop exercises | JavaScript |
 
 </details>
 
+## Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-tmttn.vercel.app/api?username=tmttn&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=dark&hide_border=true&hide=ShaderLab,HLSL" />
+  <img src="https://github-readme-stats-tmttn.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=default&hide_border=true&hide=ShaderLab,HLSL" height="165" alt="Top languages" />
+</picture>
