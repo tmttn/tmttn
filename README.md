@@ -23,7 +23,7 @@ I build things across the stack — from chess engines in Rust to interactive ar
     <td width="50%" valign="top">
       <h3><a href="https://github.com/tmttn/wishbubble">wishbubble</a></h3>
       <p>Group-first wishlist platform for Secret Santa events. Create groups, share wishlists, and draw names.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> · <a href="https://wishlist-tmttn.vercel.app">Live</a></p>
+      <p><code>TypeScript</code> <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/tmttn/home-assistant-config">home-assistant-config</a></h3>
@@ -46,9 +46,3 @@ I build things across the stack — from chess engines in Rust to interactive ar
 | [.dotfiles](https://github.com/tmttn/.dotfiles) | macOS dev environment with automatic config switching | Shell |
 | [aoc_2023](https://github.com/tmttn/aoc_2023) | Advent of Code 2023 solutions | Python |
 
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tmttn&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmttn&layout=compact&theme=default&hide_border=true&hide=ShaderLab,HLSL" height="165" alt="Top languages" />
-</p>
