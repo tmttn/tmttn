@@ -45,4 +45,21 @@ I build things across the stack — from chess engines in Rust to interactive ar
 | [any-form](https://github.com/tmttn/any-form) | Dynamic page builder powered by Nuxt and Builder.io | Vue, Nuxt |
 | [.dotfiles](https://github.com/tmttn/.dotfiles) | macOS dev environment with automatic config switching | Shell |
 | [aoc_2023](https://github.com/tmttn/aoc_2023) | Advent of Code 2023 solutions | Python |
+| [Data-Persistence-Project](https://github.com/tmttn/Data-Persistence-Project) | Unity Learn data persistence project | C#, Unity |
+| [kickstart.nvim](https://github.com/tmttn/kickstart.nvim) | Personal Neovim configuration (fork) | Lua |
+| [keyboards](https://github.com/tmttn/keyboards) | Custom Real Programmers Dvorak keyboard layout (fork) | — |
+
+<details>
+<summary>Archived</summary>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AOC21](https://github.com/tmttn/AOC21) | Advent of Code 2021 solutions in JavaScript | JavaScript |
+| [gatsby-plugin-linkedin-insight](https://github.com/tmttn/gatsby-plugin-linkedin-insight) | Gatsby plugin to add LinkedIn Insight onto a site | JavaScript |
+| [gatsby-plugin-hubspot-tracking](https://github.com/tmttn/gatsby-plugin-hubspot-tracking) | Gatsby plugin to add HubSpot embed code to a site | JavaScript |
+| [wedding](https://github.com/tmttn/wedding) | A GitHub Pages site for my wedding | HTML |
+| [ntlm-bypass-hook](https://github.com/tmttn/ntlm-bypass-hook) | A Liferay hook to bypass NTLM authentication | Java |
+| [workshop-react-exercise](https://github.com/tmttn/workshop-react-exercise) | React workshop exercises | JavaScript |
+
+</details>
 
